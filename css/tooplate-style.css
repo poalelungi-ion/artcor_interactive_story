@@ -130,9 +130,10 @@ body {
 .tm-button-orange:hover,
 .tm-button-orange:focus { background-color: #f8530f; }
 .tm-bg-pink { background-color: #f8530f; }
-.tm-button-pink { background-color: black; }
+.tm-button-pink { background-color:  #171414; }
 .tm-button-pink:focus,
-.tm-button-pink:hover { background-color: ghostwhite; color: black; }
+.tm-button-pink:hover { background-color: ghostwhite; color:  #171414; }
+.tm-button-pink:hover { background-color: ghostwhite; color:  #171414; }
 .tm-button-green { background-color: white; }
 .tm-button-green:focus,
 .tm-button-green:hover { background-color: #f8530f; }
